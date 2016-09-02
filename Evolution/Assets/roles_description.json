@@ -1,0 +1,8 @@
+{
+ "roles":[
+     {"name":"role1" , "description":"This is role1!"},
+     {"name":"role2" , "description":"This is role2!"},
+     {"name":"role3" , "description":"This is role3!"},
+     {"name":"role4" , "description":"This is role4!"}
+]
+}

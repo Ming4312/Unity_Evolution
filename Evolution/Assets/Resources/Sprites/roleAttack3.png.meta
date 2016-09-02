@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 5e9150fbe9b359c4695c87c063142c11
+timeCreated: 1453192251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roleAttack3_0
+    21300002: roleAttack3_1
+    21300004: roleAttack3_2
+    21300006: roleAttack3_3
+    21300008: roleAttack3_4
+    21300010: roleAttack3_5
+    21300012: roleAttack3_6
+    21300014: roleAttack3_7
+    21300016: roleAttack3_8
+    21300018: roleAttack3_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: roleAttack3_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 180
+        width: 140
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 180
+        width: 140
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 180
+        width: 140
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 180
+        width: 140
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 180
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 10
+        width: 140
+        height: 170
+      alignment: 9
+      pivot: {x: .485454291, y: .595830739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 9
+        width: 140
+        height: 170
+      alignment: 9
+      pivot: {x: .536364317, y: .607809424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 10
+        width: 140
+        height: 170
+      alignment: 9
+      pivot: {x: .529091537, y: .601820111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 10
+        width: 140
+        height: 170
+      alignment: 9
+      pivot: {x: .543637097, y: .595830739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roleAttack3_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 10
+        width: 140
+        height: 170
+      alignment: 9
+      pivot: {x: .558182657, y: .607809544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

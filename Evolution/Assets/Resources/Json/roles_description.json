@@ -1,0 +1,15 @@
+{
+ "roles":[
+     {"name":"單眼" , "description":"初期怪物, 只有一隻眼"},
+     {"name":"雙眼" , "description":"圓形的雙眼"},
+     {"name":"紅色牙雙眼" , "description":"長出牙了!!"},
+     {"name":"role4" , "description":"This is role4!"},
+     {"name":"role5" , "description":"This is role5!"},
+     {"name":"role6" , "description":"This is role6!"},
+     {"name":"role7" , "description":"This is role7!"},
+     {"name":"role8" , "description":"This is role8!"},
+     {"name":"role9" , "description":"This is role9!"}
+
+
+]
+}

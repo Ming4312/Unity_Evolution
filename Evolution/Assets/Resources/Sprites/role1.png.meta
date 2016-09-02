@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: d010d604dfe91954eaacf6bbbeb60a0a
+timeCreated: 1452436874
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u55AE\u773C_0"
+    21300002: "\u55AE\u773C_1"
+    21300004: "\u55AE\u773C_2"
+    21300006: "\u55AE\u773C_3"
+    21300008: "\u55AE\u773C_4"
+    21300010: "\u55AE\u773C_5"
+    21300012: "\u55AE\u773C_6"
+    21300014: "\u55AE\u773C_7"
+    21300016: "\u55AE\u773C_8"
+    21300018: "\u55AE\u773C_9"
+    21300020: "\u55AE\u773C_10"
+    21300022: "\u55AE\u773C_11"
+    21300024: "\u55AE\u773C_12"
+    21300026: "\u55AE\u773C_13"
+    21300028: "\u55AE\u773C_14"
+    21300030: role1_0
+    21300032: role1_1
+    21300034: role1_2
+    21300036: role1_3
+    21300038: role1_4
+    21300040: role1_5
+    21300042: role1_6
+    21300044: role1_7
+    21300046: role1_8
+    21300048: role1_9
+    21300050: role1_10
+    21300052: role1_11
+    21300054: role1_12
+    21300056: role1_13
+    21300058: role1_14
+    21300060: role1_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: role1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 698
+        width: 48
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 698
+        width: 42
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 698
+        width: 36
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 698
+        width: 31
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 698
+        width: 26
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 698
+        width: 66
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 698
+        width: 55
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 698
+        width: 48
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 698
+        width: 42
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 698
+        width: 48
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 631
+        width: 48
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 630
+        width: 50
+        height: 50
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 631
+        width: 52
+        height: 52
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 629
+        width: 50
+        height: 50
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: role1_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 633
+        width: 48
+        height: 48
+      alignment: 5
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
